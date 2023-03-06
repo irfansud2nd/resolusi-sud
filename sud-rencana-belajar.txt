@@ -2,6 +2,9 @@ Renacan Belajar
 - Javascript
   * ES6
   * Frameworks
+    - angular
+    - react
 - PHP
-  *OOP
+  * Laravel
 - SQL
+- C++
