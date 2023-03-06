@@ -2,6 +2,10 @@ Renacan Belajar
 - Javascript
   * ES6
   * Frameworks
+   - vue
+   - react
 - PHP
-  *OOP
+  * OOP
+  * Framework
 - SQL
+- Python
