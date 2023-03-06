@@ -3,6 +3,7 @@ Renacan Belajar
   * ES6
   * Frameworks
    - vue
+   - react
 - PHP
   * OOP
   * Framework
