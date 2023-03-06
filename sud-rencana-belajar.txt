@@ -1,4 +1,6 @@
 Renacan Belajar
 - Javascript
+  * ES6
+  * Frameworks
 - PHP
 - SQL
